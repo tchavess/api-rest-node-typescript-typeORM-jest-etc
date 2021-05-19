@@ -1,0 +1,13 @@
+.idea/
+.vscode/
+node_modules/
+build/
+temp/
+.env
+coverage
+ormconfig.json
+dist
+
+#sobe a pasta uploads pro git mas sem subir os arquivos dela(imagens) mas mantem o gitkeep
+uploads/*
+!uploads/.gitkeep
